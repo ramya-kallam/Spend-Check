@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52425531221",
+    "project_id": "spendcheck-c5952",
+    "storage_bucket": "spendcheck-c5952.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52425531221:android:0ec74c192eb00a7cdd19dc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVfbNiewG9r7LOgC6u6SqWIfxknaSanU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52425531221:android:0a0d9ae76051a0b0dd19dc",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVfbNiewG9r7LOgC6u6SqWIfxknaSanU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
